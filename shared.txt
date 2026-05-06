@@ -1,1 +1,5 @@
+<<<<<< HEAD
 Value from main
+=======
+Value from feature branch
+>>>>>> feature/conflict-demo
