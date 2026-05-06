@@ -3,3 +3,4 @@ Login feature:
 - bcrypt password hashing (cost factor 12)
 - JWT session token (1h expiry)
 - Rate limiting: 5 attempts per 15 minutes
+- Refresh token rotation
